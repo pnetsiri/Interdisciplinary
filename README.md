@@ -12,7 +12,7 @@ ML model
 Jupyter Notebook
 1. Data Analysis.ipynb - Python script for analyzing the given dataset
 2. Train Random Forest model.ipynb - Python script for training Random Forest Classifier
-3. Benford vs Random Forest.ipynb - Python script to run Benford and Random Forest classifiers
+3. Benford vs Random Forest.ipynb - Python script to run Benford vs Random Forest classifiers
 4. Benford-Constrained Simulation.ipynb - Python script to sythesize data from the given manipulated data based on Benford's law
 5. Train Regression Model.ipnb - Python script to train Random Forest Regressor
 6. Random Forest Simulation - Python script to sythesize data from the given manipulated data
