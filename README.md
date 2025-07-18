@@ -16,3 +16,6 @@ Jupyter Notebook
 4. Benford-Constrained Simulation.ipynb - Python script to sythesize data from the given manipulated data based on Benford's law
 5. Train Regression Model.ipnb - Python script to train Random Forest Regressor
 6. Random Forest Simulation - Python script to sythesize data from the given manipulated data
+
+Document
+1. 
